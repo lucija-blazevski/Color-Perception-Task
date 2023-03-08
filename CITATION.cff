@@ -1,9 +1,19 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Blaževski
-    given-names: Lucija
-    orcid: https://orcid.org/0000-0002-4561-1476
-title: Colour Classification Paradigm for Social Influences on Decision-Making: PsychoPy Version
+  - family-names: 'Blaževski'
+    given-names: 'Lucija'
+    orcid: 'https://orcid.org/0000-0002-4561-1476'
+title: 'Colour Classification Paradigm for Social Influences on Decision-Making: PsychoPy Version'
 version: v1.0.0
 date-released: 2023-03-08
+url: "https://github.com/lucija-blazevski/Color-Perception-Task"
+preferred-citation:
+  type: software
+  authors:
+  - family-names: "Blaževski"
+    given-names: "Lucija"
+    orcid: "https://orcid.org/0000-0002-4561-1476"
+  doi: "0000-0002-4561-1476"
+  title: "Colour Classification Paradigm for Social Influences on Decision-Making: PsychoPy Version"
+  year: 2023
