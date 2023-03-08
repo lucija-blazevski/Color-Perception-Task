@@ -1,4 +1,4 @@
-[![DOI](https://sandbox.zenodo.org/badge/611249985.svg)](https://sandbox.zenodo.org/badge/latestdoi/611249985)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7708972.svg)](https://doi.org/10.5281/zenodo.7708972)
 
 ### Citation
 Blaževski, L. (2023). Colour Classification Paradigm for Social Influences on Decision-Making: PsychoPy Version [Computer software]. https://doi.org/0000-0002-4561-1476
