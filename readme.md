@@ -1,3 +1,7 @@
+[![DOI](https://sandbox.zenodo.org/badge/611249985.svg)](https://sandbox.zenodo.org/badge/latestdoi/611249985)
+
+
+
 ### General
 The experiment was created at the University of Amsterdam by Lucija Blaževski for the project *Misinformation in Perceptual Decision Making*. 
 The project was supervised by Dr Marte Otten and Dr Timo Stein.
