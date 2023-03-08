@@ -1,11 +1,13 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7708972.svg)](https://doi.org/10.5281/zenodo.7708972)
 
-### Citation
-Blaževski, L. (2023). Colour Classification Paradigm for Social Influences on Decision-Making: PsychoPy Version [Computer software]. https://doi.org/https://doi.org/10.5281/zenodo.7708972
 
 ### General
 The experiment was created at the University of Amsterdam by Lucija Blaževski for the project *Misinformation in Perceptual Decision Making*. 
-The project was supervised by Dr Marte Otten and Dr Timo Stein.
+
+
+### Citation
+Blaževski, L. (2023). Colour Classification Paradigm for Social Influences on Decision-Making: PsychoPy Version [Computer software]. https://doi.org/https://doi.org/10.5281/zenodo.7708972
+
 
 ### Theoretical Description
 The experiment is aimed to test the social influence on decision-making. 
