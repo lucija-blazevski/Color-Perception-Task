@@ -20,22 +20,22 @@ The present experiment uses the same stimuli to study the effects of source trus
 
 ### Procedure
 To study the effect of source trustworthiness on perception, participants were told that the task has been previously performed by a trained artificial intelligence (AI) and a student assistant.
-They were presented with a grid containing blue and orange pixels. The ration of orange to blue pixels was varied. On each trial, participants were asked if the grid was predominantly orange or blue.
+They were presented with a grid containing blue and orange pixels. The ratio of orange to blue pixels was varied. On each trial, participants were asked if the grid was predominantly orange or blue.
 Before seeing the grid, participants heard the voice of either the research assistant or the AI, that supposedly represented their response on the same trial. 
-Particioants were instructed to ignore the auditive ratings of the AI and a research assistant, because their responses were necessary to validate the responses of AI and a research assistant. 
+Particioants were instructed to ignore the auditive ratings of the AI and a student assistant, because their responses were necessary to validate the choices made by these sources. 
 
 ### Task
 #### Layout
-The experiment starts with task innstructions in English, followed by questions *'On a scale from 1 to 100, how accurately do you think a trained AI algorithm categorizes colours?'* and *'On a scale from 1 to 100, how accurately do you think people categorize colours?'*
-The practice session follows, with the first round of 10 practice trials being without a time limit to judge a colour. The purpose of this practice block is to familiarize participants with stimuli and response keys.
+The experiment starts with task innstructions, followed by questions *'On a scale from 1 to 100, how accurately do you think a trained AI algorithm categorizes colours?'* and *'On a scale from 1 to 100, how accurately do you think people categorize colours?'*
+The practice session follows, with the 10 practice trials having no time limit. The purpose of this practice block is to familiarize participants with stimuli and response keys.
 The second practice block fully resembles the actual experiment and, therefore, has the time limit for colour judgment.
-The actual experiment consist of two blocks - one for each information source. Thus, there is an AI block and a human block. Each block consists of 240 trials and has a 30-second break after 120 trials. 
+The experiment consist of two blocks - one for each information source. Thus, there is an AI block and a human block. Each block consists of 240 trials and has a 30-second break after 120 trials. 
 In-between blocks, there in an unlimited break.
 
 #### Trial
-Each trial starts with a 1000ms fixation cross during which the (AI or research assistant) voice is played. Then, the visual stimulus is shown for 1500ms during which
+Each trial starts with a 1000 ms fixation cross during which the (AI's or student assistant's) voice is played. Then, the visual stimulus is shown for 1500 ms during which
 the participant has to rate the dominant colour of the grid with the use of 'S' and 'D' keys on the keyboard. Each trial ends with the question 'How certain are you about your answer?' 
-The certainty is rated from 1 ('very uncertain') to 4 ('very certain') with a mouse click on a scale. 
+The certainty is rated from 1 ('*very uncertain*') to 4 ('*very certain*') with a mouse click on a scale. 
 
 #### Extra information
 Block order and the keys to respond 'orange' or 'blue' were counterbalanced across subjects. Therefore, there are 4 versions of the experiment, each in a different script. See the next sections for details.
@@ -85,4 +85,4 @@ practiceconditions_ai.xlsx = condition file for the AI practice block.
 
 practiceconditions_h. xlsx = condition file for the human practice block.
 ### Usage
-The script can be re-used on any device with PsychoPy installed. The full folder should be downloaded and un-zipped. Names and a location of sub-folders should not be changed or the script should be adjusted accordingly.
+The script can be re-used on any device with PsychoPy. The full folder should be downloaded and un-zipped. Names and a location of sub-folders should not be changed or the script should be adjusted accordingly.
